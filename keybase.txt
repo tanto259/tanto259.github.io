@@ -1,0 +1,83 @@
+==================================================================
+https://keybase.io/tanto259
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://tanto259.name
+  * I am tanto259 (https://keybase.io/tanto259) on keybase.
+  * I have a public key with fingerprint 0CCF 2D8B 340C 03BF 1D45  D076 A391 A67E 9057 709D
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101e9acd77249027e9a07dff7c86bf31d1270f118972d7d5d0a72259db329e6dfc20a",
+            "fingerprint": "0ccf2d8b340c03bf1d45d076a391a67e9057709d",
+            "host": "keybase.io",
+            "key_id": "a391a67e9057709d",
+            "kid": "0101e9acd77249027e9a07dff7c86bf31d1270f118972d7d5d0a72259db329e6dfc20a",
+            "uid": "3bbcb387f61b756a64b482bcb9f03119",
+            "username": "tanto259"
+        },
+        "service": {
+            "hostname": "tanto259.name",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1483876838,
+    "expire_in": 157680000,
+    "prev": "58709cebd840f16c7aa80e50dcccbd3868421e9061ffc31e70dbd76bb9b79606",
+    "seqno": 40,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2
+
+owGtUns4VGkYH0xy6eIpZStSR8sqpnPmnDlnRpFCdJPZFF1nz5XJzDmaGbfQVm5j
+u7CSVJJWRdcHT1LoSvVYbYouoq0UooSVtKHaMz27/+yzf+73x/c97/v9fr/3fX/P
+mz7aRGBmVILQ8aLpGm+j2k5CEKyZCcUCBEfFAG6xQBj99aFVFK3VKcKUFOAGgBAI
+0TKcpDBMjMhAMcYHIEYxDEZKUYKBIQoSYyADQVIZJqYwSkKBOCYWS2QUAYtlNEox
+pBjEAReAUbIhtCZco2R1BlmSZMSUlIARkARhgoEohGdiKA7LIBzli4ASDANlFE8M
+5bQGBt8cgWtpkZLjc3yg+Nref+D/574jvsrBBEESsBRjUIjAJCiOIgQiFfM5GQPC
+ECQzALW0hsXVNI/W4ayO47WAeBeAz0YqSdpgrGGSfyFEX2MXIFzD6TiSU/FfoTpd
+uNbNQNXFhBuwUTSh+FtFQShZijeSZ0TSGq2SYwE3iEeSOqVBFkKkfI8of7kAdHS4
+UkMrlAaEhM+B/DHUoSN5SYmUN4tcQxOUFOFNQEkMx6UgLQEpkiQJCpaiUkTM+wei
+EMOQMERjIEVQGEoQMgKToSAKGAbbxHKAG8Kr6vAQXlSrDGFxXYSGBuItUoW2QoGR
+mcB0hLFhxwQW5lb/LN6dWvvPSFyEBdw4adeGLQmzPyZzFmNyXHauS8/xjWvdPs6l
+a276zba0yc2N/q67uz/YtD54s+yMte225fXtD5U7dq91PlCaKvCcc2rAwcN8UXP2
+ENuU9XwiMiH/xrdpZ2OtHOXGX4ioquqq22j54PHzZRddf6FZ5+drbCXANGvvWf76
+6xFQ9JESWtt2N96dK3qbmbCgsvscdKhFP6rXeHmBiZVFQU5S7dZRTrD10QV7vJgm
+0WHT6zd3ft+xI+WcZciczpAKY/OI/b8Fr2zH48Hmp76r0bF/cEmBvkMOIcukiVN/
+B9u8Rpc5EuStd3ZWgZxtvun9GVd3qxRNpRvYtqaAj6BlorTQe4WpwCEIqZkwhY5L
+v2v1anl2oNnSduvI3fr+YNHrGExvdty3Y61XWH+r8LGS/UYFhbOfmcaIY1PfOJrq
+hfkfGoFdrWUT1Pm5aeKwWg8sbe3SgvmcJvQnp9lZ+244rXF+77Gg0qP4oKwwP7r1
+9twdNjZ7als+ua66bZdxQF1X0bLeuyep70HxOUZwok5FVo8ZH5EcxV6bsrXh5zoP
+j66CzczR06E3tGM/yGqmkl0yy/3dT6vca+6pzZcI8ybic3RXCzuzdYlGOCk/X07G
+O4mWmFypiTaKUtT+6FqQOmLVoFyxNA9xPuz5a6k8ibN91hBj/yqf2RCYe+CMKLOC
+HOGjByc5FM9TjGm+8zKdaCz2LLuffenR/s+d73O3FGdYrAnR69aZn8p3lMzoGtG1
+fvrxzOKHA4Dbk97Li+Nu5qEvNpb3+XReG7RTtgwOml+O9jpR4Whn6eC+cHz/XWOX
+pCAbSz+tZqcseFzWw9SMhmgf9i0QfOFI2VDrNMVQSF93OZw00e/LwjaPRos+nSrf
+N8i/Htmkfrt+RWS1wjxn7z2pP/uO2Cz8juvPI33hE771QkHctWdad9+O0a9ch5JV
+VwveMKnt8+yt6gp7nStzkgKyeg81yOteXkqJGla5J8Ma6+a4m7XTS8GisOJceeXS
+U++F6QUcqNoZ+iTGbqSp0aM7fds7WwIvnh2lf7bvrMm0gAG/2AkvnO1OdazzEsGS
+oszkaerYzE6n26vzDl8gNvQ0mZF3S5l6n+FKz9zzGXH3TfCaNCNHH/vVJocTEuAS
+v8bR1ivHQ3aTjWZ+qauVlwxav7k3fsB/1pic0+ofXqYc7Xh3b1YDvM391uO3Jxfq
+Zp42fa6YQwQepNuLiuw/fUhFjyHh8li/kkj9Ab+wWe7VhcKtSzb2DFxLMB0ULam4
+sFd+ZdTwSP8/kfmv8aKYC6um9Oxf1Bno7nlI/dJuSpC6KaCHFtlIh2fY96VoPbfd
+v5o43DFpsGf55/f1eUiVGbH+oMwhoJleLDQrefqwfOKZIrZvKHtbkOCktH/jXw==
+=mRhE
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tanto259
+
+==================================================================

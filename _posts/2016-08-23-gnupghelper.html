@@ -1,0 +1,122 @@
+---
+layout: post
+title:  "GnuPG Helper"
+date:   2016-08-23
+excerpt: "A simple batch file intended to help those who have GnuPG in Windows"
+tag:
+- Project
+project: true
+comments: true
+---
+<h3>A simple batch file intended to help those who have GnuPG in Windows</h3>
+<br/>
+<img src="{{ site.url }}/assets/images/data/gnupghelper.png" alt="Screenshot of .bat file" />
+
+<h3>Function</h3>
+<ul>
+	<li>Encrypt and Decrypt a File</li>
+	<li>Sign and Verify a File with the ability to set policy URL</li>
+	<li>Import Keys</li>
+	<li>Create Revocation Certificate and Import Them</li>
+	<li>Signing Keys with <code>--ask-cert-level</code> as default with the ability to set policy URL</li>
+	<li>Deleting Keys</li>
+</ul>
+
+<h3>How to Use</h3>
+<p>Download .bat file and double click it</p>
+
+<hr>
+<center><h3><i class="fa fa-fw fa-download" id="font30"></i><br/>Download</h3></center>
+<div id="download">
+	<center>
+		<br/>
+		<strong>Dependencies</strong>
+		<br/>
+		<p>Built for GnuPG Modern Release</p>
+		<a href="https://gnupg.org" target="_blank" rel="noopener noreferrer">GnuPG 2.1</a> (tested on 2.1.17)<br/>
+		<br/>
+		<a href="https://gpg4win.org" target="_blank" rel="noopener noreferrer">Gpg4win 3 Beta</a> (untested)<br/>
+		<br/>
+		<p>Usage for GnuPG Stable 2.0 and Classic 1.4 are untested and unsupported.</p>
+
+		<strong><a href="https://github.com/tanto259/gnupghelper/archive/master.zip" target="_blank" rel="noopener noreferrer">Download</a> | <a href="https://github.com/tanto259/gnupghelper" target="_blank" rel="noopener noreferrer">GitHub</a></strong>
+	</center>
+	<br/>
+</div>
+<hr>
+<center><h3><i class="fa fa-fw fa-question-circle-o" id="font30"></i><br/>Details</h3></center>
+<div id="faq">
+	<ul>
+		<li>Support Windows XP Service Pack 2 and later</li>
+		<li>.bat file is signed with GnuPG key id <a href="https://tanto259.keybase.pub/signingkey.html" target="_blank" rel="noopener noreferrer">0xEBE358FC</a></li>
+		<li>Require internet connection when checking for update</li>
+		<li>There is an in-app changelog</li>
+	</ul>
+
+	<strong>Integrity Check Option</strong>
+	<ol>
+		<li>Please put the signature file (GnuPG-Helper.bat.asc) in the same place as the .bat file.</li>
+		<li>Add the GnuPG Key <a href="https://tanto259.keybase.pub/signingkey.html" target="_blank" rel="noopener noreferrer">0xEBE358FC</a> to your keyring.</li>
+		<li>Press the option "Check this batch file integrity" on the .bat file.</li>
+	</ol>
+
+	<strong>Check for Update Option</strong>
+	<ol>
+		<li>Press the option "Check for update" on the .bat file.</li>
+		<li>Require internet connection</li>
+		<li>Will download a file to your temp folder to check for version. File will be removed automatically afterwards.</li>
+	</ol>
+
+	<strong>Support for Portable GPG.exe and Portable Keyring</strong>
+	<ol>
+		<li>First, do the integrity check</li>
+		<li>Edit the .bat file using a text editor.</li>
+		<li>For portable gpg.exe, in line 14, add the full directory to your gpg.exe file after <code>SET PORTABLE=</code>. Example: <code>SET PORTABLE=C:\GPG\gpg.exe</code></li>
+		<li>For portable keyring, in line 16, add the full directory to your keyring folder after <code>SET HOMEDIR=</code>. Example: <code>SET HOMEDIR=C:\GPGKeyring\</code></li>
+		<li>This will render the signature file GnuPG-Helper.bat.asc <strong>invalid</strong>.</li>
+	</ol>
+</div>
+<hr>
+<center><h3><i class="fa fa-fw fa-check-circle-o" id="font30"></i><br/>Checksum</h3></center>
+<div id="checksum">
+	<br/>
+	<strong>Public Key</strong>
+	<pre><code>sec   rsa4096 2016-12-31 [SC]
+      435DC2EEDE2DD1EEFFED9A1B2C4D19A0EBE358FC
+uid           Hartanto Ario Widjaya (<span class="mailnolink" mail="pbagnpg@gnagb259.anzr"></span>)</code></pre>
+	<p>For more information, <a href="https://tanto259.keybase.pub/signingkey.html" target="_blank" rel="noopener noreferrer">click here</a>.</p>
+
+	<strong>GnuPG-Helper.bat</strong>
+	<pre><code>CRC32: 87BD1BD3
+CRC64: 871AE35FAD457BCB
+MD5: AC1C6870372A97155F2F2B07A97EC79F
+SHA-1: 100EE83FF36A1523F83F29A5CDEB7D422BEEA1B5
+SHA-256: 8CD299F248DD5DD96D40CE202F9887F2B6F3F58FF516C6385AF56783DBDA3E93</code></pre>
+	<br/>
+	<strong>GnuPG-Helper.bat.asc</strong>
+	<pre><code>CRC32: 925131BA
+CRC64: 5C17EDECAAAF4FE1
+MD5: 256162BDDF4A5DD4001208917BE3ACEE
+SHA-1: 367D7D2321981A7C2C506D0AE3771FB6FBC73EEA
+SHA-256: 1D69DB3DAB37C5E754F4F75A57BC36E46EE5FB73B989EC0449E6B5FA765EEEDA</code></pre>
+</div>
+<hr>
+<center><h3><i class="fa fa-fw fa-book" id="font30"></i><br/>Disclaimer</h3></center>
+<div id="tplicense">
+	<br/>
+	<p>We are not affliated with PGP, GnuPG or Gpg4win. <a href="https://www.symantec.com/products/information-protection/encryption" target="_blank" rel="noopener noreferrer">PGP</a> is a product of <a href="https://symantec.com" target="_blank" rel="noopener noreferrer">Symantec Corporation</a>. <a href="https://gnupg.org" target="_blank" rel="noopener noreferrer">GnuPG</a> is an international community project run by volunteers and not a legal entity. The technical resources are provided by <a href="https://g10code.com" target="_blank" rel="noopener noreferrer">g10 Code GmbH</a>. <a href="https://gpg4win.org" target="_blank" rel="noopener noreferrer">Gpg4win</a> is developed by <a href="https://intevation.net" target="_blank" rel="noopener noreferrer">Intevation GmbH</a> and <a href="https://g10code.com" target="_blank" rel="noopener noreferrer">g10 Code GmbH</a>.</p>
+</div>
+<hr class="hr-line">
+<center><h3 class="title"><i class="fa fa-fw fa-copyright" id="font30"></i><br/>License</h3></center>
+<div id="license">
+	<br/>
+	<p>The MIT License (MIT)</p>
+
+	<p>Copyright (c) 2016-<span class="year"></span> Hartanto Ario Widjaya<p>
+
+	<p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<p>
+
+	<p>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</p>
+
+	<p>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
+</div>
