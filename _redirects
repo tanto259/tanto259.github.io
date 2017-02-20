@@ -3,9 +3,6 @@ https://tanto259.netlify.com/*		https://tanto259.name/:splat		301!
 https://tanto259.name/uptime		https://hetrixtools.com/report/uptime/ba82ca328f1ca2de3292b67847bdd802/		301!
 https://tanto259.name/blacklist		https://hetrixtools.com/report/blacklist/c3e97f3699e04dc3d40c527102ce4437/		301!
 
-https://uptime.tanto259.name/*		https://tanto259.name/uptime		301!
-https://blacklist.tanto259.name/*	https://tanto259.name/blacklist		301!
-
 https://mail.tanto259.name/*		https://mail.zoho.com/portal/tanto259		301!	
 
 # https://tanto259.name/*			https://tanto259.name/maintenance		503!
