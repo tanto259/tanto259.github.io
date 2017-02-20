@@ -28,13 +28,12 @@ Repo for [Netlify Pages](https://netlify.com) run on [Jekyll](https://jekyllrb.c
 See licensing folder at [https://github.com/tanto259/tanto259.github.io/tree/master/licensing](https://github.com/tanto259/tanto259.github.io/tree/master/licensing)
 
 ### Third-party Provider Privacy Policy
-* [Netlify](https://www.netlify.com/privacy) *have access to user data*
-* [Zoho](https://www.zoho.com/privacy.html) *have access to user data*
+* [Netlify](https://www.netlify.com/privacy) *(have access to user data)*
+* [Zoho](https://www.zoho.com/privacy.html) *(have access to user data)*
 * [Keybase](https://keybase.io/docs/privacypolicy)
 * [Let's Encrypt](https://letsencrypt.org/privacy/)
 * [Cloudflare](https://www.cloudflare.com/security-policy/)
 * [GitHub](https://github.com/site/privacy)
-* [HetrixTools](https://hetrixtools.com/privacy-policy/)
 
 ### Contact Me
 Contact me at [https://tanto259.name/contact](https://tanto259.name/contact)
