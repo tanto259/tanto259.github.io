@@ -3,10 +3,6 @@ Repo for [Netlify Pages](https://netlify.com) run on [Jekyll](https://jekyllrb.c
 
 [![Netlify Badge](https://www.netlify.com/img/global/badges/netlify-light.svg)](https://www.netlify.com)
 
-### Reports
-* [https://uptime.tanto259.name](https://uptime.tanto259.name)
-* [https://blacklist.tanto259.name](https://blacklist.tanto259.name)
-
 ### Legal
 * [Terms and Conditions](https://tanto259.name/terms)
 * [Privacy Policy](https://tanto259.name/privacy)

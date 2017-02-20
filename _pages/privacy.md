@@ -98,11 +98,6 @@ permalink: /privacy
 		GitHub is an online Git source, used for hosting the Site source code.<br/>
 		<a href="https://github.com/site/privacy" target="_blank" rel="noopener noreferrer">Privacy Policy</a> | <a href="https://github.com/tanto259/tanto259.github.io" target="_blank" rel="noopener noreferrer">Site Repository</a>
 	</li>
-	<li>
-		<strong><i><a href="https://hetrixtools.com" target="_blank" rel="noopener noreferrer">HetrixTools</a></i></strong><br/>
-		HetrixTools is an accurate uptime and blacklist monitoring service that checks the conditions of this website.<br/>
-		<a href="https://hetrixtools.com/privacy-policy/" target="_blank" rel="noopener noreferrer">Privacy Policy</a> | <a href="https://tanto259.name/uptime" target="_blank" rel="noopener noreferrer">Uptime Report</a> | <a href="https://tanto259.name/blacklist" target="_blank" rel="noopener noreferrer">Blacklist Report</a>
-	</li>
 </ul></p>
 
 <h3>Third party websites</h3>

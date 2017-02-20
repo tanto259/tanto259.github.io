@@ -35,16 +35,6 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://tanto259.name/uptime</loc>
-  <changefreq>yearly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://tanto259.name/blacklist</loc>
-  <changefreq>yearly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
   <loc>https://tanto259.name/posts</loc>
   <changefreq>daily</changefreq>
   <priority>0.80</priority>
