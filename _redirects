@@ -1,28 +1,11 @@
 https://tanto259.netlify.com/*		https://tanto259.name/:splat		301!
 
-# Redirect Netlify subdomain to custom domain. 
+https://tanto259.name/uptime		https://hetrixtools.com/report/uptime/ba82ca328f1ca2de3292b67847bdd802/		301!
+https://tanto259.name/blacklist		https://hetrixtools.com/report/blacklist/c3e97f3699e04dc3d40c527102ce4437/		301!
 
-
-https://uptime.tanto259.name/*		https://hetrixtools.com/report/uptime/ba82ca328f1ca2de3292b67847bdd802/		301!
-
-# Redirect uptime.tanto259.name subdomain to HetrixTools uptime report with a 301.
-
-
-https://blacklist.tanto259.name/*		https://hetrixtools.com/report/blacklist/c3e97f3699e04dc3d40c527102ce4437/		301!
-
-# Redirect blacklist.tanto259.name subdomain to HetrixTools blacklist report with a 301.		
-
+https://uptime.tanto259.name/*		https://tanto259.name/uptime		404!
+https://blacklist.tanto259.name/*	https://tanto259.name/blacklist		404!
 
 https://mail.tanto259.name/*		https://mail.zoho.com/portal/tanto259		301!	
 
-# Redirect mail.tanto259.name subdomain to Zoho Mail login page with a 301
-
-
-# /*		/maintenance		503!
-
-# Toggle maintenance mode with a 503. Uncomment line and edit _config.yml
-
-
-# Exclamation mark at the end is required otherwise 
-# the subdomain will continue to serve existing pages.
-# See https://www.netlify.com/docs/redirects/
+# https://tanto259.name/*			https://tanto259.name/maintenance		503!

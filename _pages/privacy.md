@@ -101,7 +101,7 @@ permalink: /privacy
 	<li>
 		<strong><i><a href="https://hetrixtools.com" target="_blank" rel="noopener noreferrer">HetrixTools</a></i></strong><br/>
 		HetrixTools is an accurate uptime and blacklist monitoring service that checks the conditions of this website.<br/>
-		<a href="https://hetrixtools.com/privacy-policy/" target="_blank" rel="noopener noreferrer">Privacy Policy</a> | <a href="https://uptime.tanto259.name" target="_blank" rel="noopener noreferrer">Uptime Report</a> | <a href="https://blacklist.tanto259.name" target="_blank" rel="noopener noreferrer">Blacklist Report</a>
+		<a href="https://hetrixtools.com/privacy-policy/" target="_blank" rel="noopener noreferrer">Privacy Policy</a> | <a href="https://tanto259.name/uptime" target="_blank" rel="noopener noreferrer">Uptime Report</a> | <a href="https://tanto259.name/blacklist" target="_blank" rel="noopener noreferrer">Blacklist Report</a>
 	</li>
 </ul></p>
 
@@ -120,7 +120,7 @@ permalink: /privacy
 <h3>Contacting us</h3>
 <p>If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please <a href="{{ site.url }}/contact">contact us</a>.</p>
 
-<p>This document was last updated on February 18, 2017</p>
+<p>This document was last updated on February 20, 2017</p>
 
 <p>This policy was generated using <a href="http://privacypolicies.com" target="_blank" rel="noopener noreferrer">PrivacyPolicies.com</a></p>
 <!-- Privacy policy generator from http://privacypolicies.com -->
