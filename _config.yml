@@ -1,6 +1,6 @@
 # Site
 title: tanto259.name
-description: Student, Gamer, Developer, Cybersecurity Enthusiast
+description: Encrypt All The Things!
 url: https://tanto259.name
 logo: halve.png                                       
 locale: en_US
@@ -27,11 +27,11 @@ sass:
   style:            compressed
 
 # Meta Tags
-google-verify: 47gabr9UPrQqoFY1CCpP13pYagL4RKBU8xImeq_s5EQ
-bing-verify: 0C8DA626DE53E04C6AF918B5FB85176E
-pinterest-verify: 59d7967f758b1f035e23d436b2778b57
-wot-verify: 24f37ed1b7a537b44f55
-norton-safeweb: 9u2bacgc2l2jiz2sknjz4aw48ft2kk3edmomxcmozsx2nzxugydtz58uutsxm3f9qrfccybu4umvgp8lj7nng-8e4m3bhde6ezjnp8lxn971tjumc00ncl-bdti1gm28
+google-verify:      47gabr9UPrQqoFY1CCpP13pYagL4RKBU8xImeq_s5EQ
+bing-verify:        0C8DA626DE53E04C6AF918B5FB85176E
+pinterest-verify:   59d7967f758b1f035e23d436b2778b57
+wot-verify:         24f37ed1b7a537b44f55
+norton-safeweb:     9u2bacgc2l2jiz2sknjz4aw48ft2kk3edmomxcmozsx2nzxugydtz58uutsxm3f9qrfccybu4umvgp8lj7nng-8e4m3bhde6ezjnp8lxn971tjumc00ncl-bdti1gm28
 
 # Social Links
 email:              https://tanto259.name/contact
