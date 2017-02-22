@@ -1,17 +1,17 @@
 /*
-	Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+	Cache-Control: private, no-cache, no-store, must-revalidate
 	Content-Security-Policy: default-src 'none'; script-src 'self'; style-src 'self'; img-src 'self'; font-src 'self'; connect-src 'self'; media-src 'self'; object-src 'none'; child-src 'none'; frame-src 'none'; worker-src 'none'; frame-ancestors 'none'; form-action 'self'; block-all-mixed-content; disown-opener; reflected-xss block; base-uri 'self'; manifest-src 'none'; referrer no-referrer; require-sri-for script style
-	Public-Key-Pins: pin-sha256="YLh1dUR9y6Kja30RrAn7JKnbQG/uEtLMkBgFF2Fuihg="; pin-sha256="sRHdihwgkaib1P1gxX8HFszlD+7/gTfNvuAybgLPNis="; pin-sha256="C5+lpZ7tcVwmwQIMcRtPbsQtWLABXhQzejna0wHFr8M="; pin-sha256="Vjs8r4z+80wjNcr1YKepWQboSIRi63WsWXhIMN+eWys="; pin-sha256="grX4Ta9HpZx6tSHkmCrvpApTQGo67CYDnvprLg5yRME="; pin-sha256="58qRu/uxh4gFezqAcERupSkRYBlBAvfcw7mEjGPLnNU="; includeSubDomains; max-age=5184000
-	X-Frame-Options: DENY
-	X-XSS-Protection: 1; mode=block
-	X-Download-Options: noopen
-	X-Content-Type-Options: nosniff
-	X-Permitted-Cross-Domain-Policies: none
-	Referrer-Policy: no-referrer
 	Pragma: no-cache
-	Cache-Control: no-cache, no-store, must-revalidate
+	Public-Key-Pins: pin-sha256="YLh1dUR9y6Kja30RrAn7JKnbQG/uEtLMkBgFF2Fuihg="; pin-sha256="sRHdihwgkaib1P1gxX8HFszlD+7/gTfNvuAybgLPNis="; pin-sha256="C5+lpZ7tcVwmwQIMcRtPbsQtWLABXhQzejna0wHFr8M="; pin-sha256="Vjs8r4z+80wjNcr1YKepWQboSIRi63WsWXhIMN+eWys="; pin-sha256="grX4Ta9HpZx6tSHkmCrvpApTQGo67CYDnvprLg5yRME="; pin-sha256="58qRu/uxh4gFezqAcERupSkRYBlBAvfcw7mEjGPLnNU="; includeSubDomains; max-age=5184000
+	Referrer-Policy: no-referrer
+	Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+	X-Content-Type-Options: nosniff
+	X-Download-Options: noopen
+	X-Frame-Options: DENY
 	X-Legal: https://tanto259.name/terms, https://tanto259.name/privacy, https://tanto259.name/contact, https://tanto259.name/pgp
+	X-Made-With: ❤
+	X-Permitted-Cross-Domain-Policies: none
 	X-Primary-Key: RSA8192/0CCF2D8B340C03BF1D45D076A391A67E9057709D
 	X-Signing-Key: RSA4096/435DC2EEDE2DD1EEFFED9A1B2C4D19A0EBE358FC
-	X-Made-With: ❤
 	X-Status: Encrypt All The Things!
+	X-XSS-Protection: 1; mode=block
