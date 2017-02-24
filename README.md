@@ -19,7 +19,6 @@ If you like this theme, [please fork the author repo](https://github.com/taylant
 
 ### Project License
 * GnuPG Helper: [MIT License](https://github.com/tanto259/gnupghelper/blob/master/LICENSE)
-* Simple Password Generator: [New BSD License](https://github.com/tanto259/simplepassgen/blob/master/LICENSE)
 * Telegram Bot Contact Form: [MIT License](https://tanto259.name/telegramcontactform/)
 * Have I Been Pwned? Batch Script: [MIT License](https://github.com/tanto259/haveibeenpwned-batch/blob/master/LICENSE)
 
