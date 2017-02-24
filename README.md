@@ -3,13 +3,18 @@ Repo for [Netlify Pages](https://netlify.com) run on [Jekyll](https://jekyllrb.c
 
 [![Netlify Badge](https://www.netlify.com/img/global/badges/netlify-light.svg)](https://www.netlify.com)
 
+### Theme
+Theme of this Jekyll site is [Halve](https://github.com/taylantatli/halve) by [Taylan Tatli](https://taylantatli.github.io).<br/>
+If you like this theme, [please fork the author repo](https://github.com/taylantatli/halve/fork).<br/>
+**Do not fork this repo as it is highly customized for my needs.**
+
 ### Legal
 * [Terms and Conditions](https://tanto259.name/terms)
 * [Privacy Policy](https://tanto259.name/privacy)
 * [PGP Policy](https://tanto259.name/pgp)
 
 ### License
-* Posts Content: [All Right Reserved](https://tanto259.name/terms) 
+* Posts Content: [CC BY-SA 4.0](https://tanto259.name/terms) 
 * Modified Theme Files: [MIT License](https://github.com/tanto259/tanto259.github.io/blob/master/LICENSE)
 
 ### Project License
