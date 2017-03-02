@@ -3,8 +3,9 @@ layout: post
 title:  "Telegram Bot Contact Form"
 date:   2016-10-08
 excerpt: "PHP Script to Send Messages from Contact Form to Telegram"
+project: true
 tag:
-- Blog
+- Project
 - Tutorial
 comments: true
 ---
