@@ -113,7 +113,7 @@ This root CAs have issues free certificate which brings very low trust:
 <td rowspan="2"><a href="https://blog.cloudflare.com/introducing-universal-ssl/" target="_blank" rel="noopener noreferrer">Cloudflare's Universal SSL</a></td>
 </tr>
 <tr>
-<td><a href="https://crt.sh/?caid=1112" target="_blank" rel="noopener noreferrer">COMODO RSA CA/a></td>
+<td><a href="https://crt.sh/?caid=1112" target="_blank" rel="noopener noreferrer">COMODO RSA CA</a></td>
 </tr>
 <tr>
 <td><a href="https://crt.sh/?caid=1425" target="_blank" rel="noopener noreferrer">WoSign</a></td>
