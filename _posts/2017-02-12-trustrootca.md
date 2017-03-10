@@ -92,6 +92,43 @@ There are also other root certificates that I put in my own "watch list", these 
 </table>
 Entries in this "watch list" will be removed one year after the last incident, considering there are no further incidents. 
 
+### Free Certificates Watch List
+
+This root CAs have issues free certificate which brings very low trust:
+<table>
+<tbody>
+<tr>
+<th>Name</th>
+<th>Reason</th>
+</tr>
+<tr>
+<td><a href="https://crt.sh/?caid=276" target="_blank" rel="noopener noreferrer">DST Root CA X3</a></td>
+<td rowspan="2"><a href="https://letsencrypt.org" target="_blank" rel="noopener noreferrer">Let's Encrypt</a></td>
+</tr>
+<tr>
+<td><a href="https://crt.sh/?caid=7394" target="_blank" rel="noopener noreferrer">ISRG Root X1</a></td>
+</tr>
+<tr>
+<td><a href="https://crt.sh/?caid=1388" target="_blank" rel="noopener noreferrer">COMODO ECC CA</a></td>
+<td rowspan="2"><a href="https://blog.cloudflare.com/introducing-universal-ssl/" target="_blank" rel="noopener noreferrer">Cloudflare's Universal SSL</a></td>
+</tr>
+<tr>
+<td><a href="https://crt.sh/?caid=1112" target="_blank" rel="noopener noreferrer">COMODO RSA CA/a></td>
+</tr>
+<tr>
+<td><a href="https://crt.sh/?caid=1425" target="_blank" rel="noopener noreferrer">WoSign</a></td>
+<td><a href="https://www.wosign.com/english/freeSSL.htm" target="_blank" rel="noopener noreferrer">WoSign, untrusted</a></td>
+</tr>
+<tr>
+<td><a href="https://crt.sh/?caid=84" target="_blank" rel="noopener noreferrer">StartCom CA</a></td>
+<td rowspan="2"><a href="https://www.startssl.com/?app=1" target="_blank" rel="noopener noreferrer">StartCom, untrusted</a></td>
+</tr>
+<tr>
+<td><a href="https://crt.sh/?caid=239" target="_blank" rel="noopener noreferrer">StartCom CA G2</a></td>
+</tr>
+</tbody>
+</table>
+
 ### Side-effects of Untrusting Root CA
 * Some applications won't run or install as they are signed using a key which have the untrusted root certificate.
 * Some websites won't open as they are secured using the untrusted certificate.

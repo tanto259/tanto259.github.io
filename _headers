@@ -1,9 +1,8 @@
 /*
 	Cache-Control: private, no-cache, no-store, must-revalidate
 	Content-Security-Policy: default-src 'none'; script-src 'self'; style-src 'self'; img-src 'self'; font-src 'self'; connect-src 'self'; media-src 'self'; object-src 'none'; child-src 'none'; frame-src 'none'; worker-src 'none'; frame-ancestors 'none'; form-action 'self'; block-all-mixed-content; disown-opener; reflected-xss block; base-uri 'self'; manifest-src 'none'; referrer no-referrer; require-sri-for script style
-	P3P: CP="P3P is outdated. See https://tanto259.name/privacy instead."
 	Pragma: no-cache
-	Public-Key-Pins: pin-sha256="YLh1dUR9y6Kja30RrAn7JKnbQG/uEtLMkBgFF2Fuihg="; pin-sha256="sRHdihwgkaib1P1gxX8HFszlD+7/gTfNvuAybgLPNis="; pin-sha256="C5+lpZ7tcVwmwQIMcRtPbsQtWLABXhQzejna0wHFr8M="; pin-sha256="Vjs8r4z+80wjNcr1YKepWQboSIRi63WsWXhIMN+eWys="; pin-sha256="grX4Ta9HpZx6tSHkmCrvpApTQGo67CYDnvprLg5yRME="; pin-sha256="58qRu/uxh4gFezqAcERupSkRYBlBAvfcw7mEjGPLnNU="; includeSubDomains; max-age=5184000
+	Public-Key-Pins: pin-sha256="YLh1dUR9y6Kja30RrAn7JKnbQG/uEtLMkBgFF2Fuihg="; pin-sha256="sRHdihwgkaib1P1gxX8HFszlD+7/gTfNvuAybgLPNis="; pin-sha256="C5+lpZ7tcVwmwQIMcRtPbsQtWLABXhQzejna0wHFr8M="; pin-sha256="Vjs8r4z+80wjNcr1YKepWQboSIRi63WsWXhIMN+eWys="; pin-sha256="grX4Ta9HpZx6tSHkmCrvpApTQGo67CYDnvprLg5yRME="; pin-sha256="58qRu/uxh4gFezqAcERupSkRYBlBAvfcw7mEjGPLnNU="; pin-sha256="K87oWBWM9UZfyddvDfoxL+8lpNyoUB2ptGtn0fv6G2Q="; pin-sha256="Y9mvm0exBk1JoQ57f9Vm28jKo5lFm/woKcVxrYxu80o="; includeSubDomains; max-age=5184000
 	Referrer-Policy: no-referrer
 	Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
 	X-Content-Type-Options: nosniff
