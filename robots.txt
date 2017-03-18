@@ -1,5 +1,71 @@
-# Allow crawling of all content
-User-agent: *
+# Crawling is limited to whitelisted user-agent.
+# To be whitelisted, contact: https://tanto259.name/contact
+
+User-agent: AOLBuild
 Disallow:
 
+User-agent: AppleBot
+Disallow:
+
+User-agent: BaiduSpider
+Disallow:
+
+User-agent: BingBot
+Disallow:
+
+User-agent: CCBot
+Disallow:
+
+User-agent: CocCoc
+Disallow:
+
+User-agent: Daumoa
+Disallow:
+
+User-agent: DuckDuckBot
+Disallow:
+
+User-agent: FacebookExternalHit
+Disallow:
+
+User-agent: GoogleBot
+Disallow:
+
+User-agent: Mail.RU_Bot
+Disallow:
+
+User-agent: MSNBot
+Disallow:
+
+User-agent: NaverBot
+Disallow:
+
+User-agent: OrangeBot
+Disallow:
+
+User-agent: Qwantify
+Disallow:
+
+User-agent: SeznamBot
+Disallow:
+
+User-agent: Slurp
+Disallow:
+
+User-agent: Teoma
+Disallow:
+
+User-agent: TwitterBot
+Disallow:
+
+User-agent: Yandex
+Disallow:
+
+User-agent: Yeti
+Disallow:
+
+User-agent: *
+Disallow: /
+
+Host: https://tanto259.name
 Sitemap: https://tanto259.name/sitemap.xml
