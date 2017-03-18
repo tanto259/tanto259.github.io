@@ -1,5 +1,24 @@
-https://tanto259.netlify.com/*		https://tanto259.name/:splat		301!
+#     _____________________________________________________
+#    /                                                     \
+#   |    _____________________________________________     |
+#   |   |                                             |    |
+#   |   |                                             |    |
+#   |   |   C:\> tanto259.name redirects              |    |
+#   |   |                                             |    |
+#   |   |   C:\> Redirects Query from specified URL   |    |
+#   |   |       to another URL. Thanks to Netlify.    |    |
+#   |   |                                             |    |
+#   |   |_____________________________________________|    |
+#   |                                                      |
+#    \_____________________________________________________/
+#
 
-https://mail.tanto259.name/*		https://mail.zoho.com/portal/tanto259		301!	
+# Original URL                      Redirected URL                           Redirect Status Code
 
-# https://tanto259.name/*			https://tanto259.name/maintenance		503!
+https://tanto259.netlify.com/*      https://tanto259.name/:splat             301!
+
+https://mail.tanto259.name/*        https://mail.zoho.com/portal/tanto259    301! 
+
+https://tanto259.name/humans.txt    https://tanto259.name/about              301!
+
+# https://tanto259.name/*           https://tanto259.name/maintenance        503!
