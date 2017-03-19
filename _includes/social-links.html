@@ -1,5 +1,5 @@
 <ul>
-  {% if site.email %}<li><a class="social-btn" href="{{ site.url }}/contact" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-envelope"></i></a></li>{% endif %}
+  {% if site.email %}<li><a class="social-btn" href="{{ site.email }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-envelope"></i></a></li>{% endif %}
   {% if site.behance %}<li><a class="social-btn" href="https://www.behance.net/{{ site.behance }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-behance"></i></a></li>{% endif %}
   {% if site.twitter %}<li><a class="social-btn" href="https://twitter.com/{{ site.twitter }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-twitter"></i></a></li>{% endif %}
   {% if site.facebook %}<li><a class="social-btn" href="https://www.facebook.com/{{ site.facebook }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-facebook"></i></a></li>{% endif %}
@@ -26,4 +26,5 @@
   {% if site.xmpp %}<li><a class="social-btn" href="xmpp:{{ site.xmpp }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-lightbulb-o"></i></a></li>{% endif %}
   {% if site.reddit %}<li><a class="social-btn" href="https://www.reddit.com/user/{{ site.reddit }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-reddit"></i></a></li>{% endif %}
   {% if site.hackernews %}<li><a class="social-btn" href="https://news.ycombinator.com/user?id={{ site.hackernews }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-hacker-news"></i></a></li>{% endif %}
+  {% if site.donate %}<li><a class="social-btn" href="{{ site.donate }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-dollar"></i></a></li>{% endif %}
 </ul>
