@@ -41,8 +41,7 @@ donate:             https://tanto259.name/donate
 twitter:            tanto259
 facebook:           tanto259
 github:             tanto259
-stackoverflow:      6789877/tanto259
-stackexchange:      8492733/tanto259
+stackexchange:      8492733
 quora:              Hartanto-Ario-Widjaya
 #linkedin:          username
 #xing:              username
@@ -67,8 +66,10 @@ hackernews:         tanto259
 # Gems
 gems:
   - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-gist
+  - jekyll-mentions
+
+jekyll-mentions:
+  base-url: https://twitter.com
 
 # Exclude list
 include: [_pages, _redirects, _headers]
