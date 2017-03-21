@@ -1,17 +1,46 @@
-#     _____________________________________________________
-#    /                                                     \
-#   |    _____________________________________________     |
-#   |   |                                             |    |
-#   |   |                                             |    |
-#   |   |   C:\> tanto259.name robots.txt             |    |
-#   |   |                                             |    |
-#   |   |   C:\> Crawling is limited to whitelisted   |    |
-#   |   |       user-agent. Apply for whitelisting    |    |
-#   |   |       at https://tanto259.name/contact      |    |
-#   |   |                                             |    |
-#   |   |_____________________________________________|    |
-#   |                                                      |
-#    \_____________________________________________________/
+#    ______________________________________________________   
+#   /                                                      \  
+#   |    _____________________________________________     |  
+#   |   |                                             |    |  
+#   |   |                                             |    |  
+#   |   |   C:\> tanto259.name robots.txt             |    |  
+#   |   |                                             |    |  
+#   |   |   C:\> Crawling is limited to whitelisted   |    |  
+#   |   |       user-agent. Apply for whitelisting    |    |  
+#   |   |       at https://tanto259.name/contact      |    |  
+#   |   |                                             |    |  
+#   |   |   C:\> By visiting this site you hereby     |    |  
+#   |   |       agree with our Terms and Conditions   |    |  
+#   |   |       and Privacy Policy available at       |    |  
+#   |   |       https://tanto259.name/terms and       |    |  
+#   |   |       https://tanto259.name/privacy         |    |  
+#   |   |                                             |    |  
+#   |   |   C:\> Humans? Nothing to see here. Go to   |    |  
+#   |   |       https://tanto259.name instead.        |    |  
+#   |   |                                             |    |  
+#   |   |_____________________________________________|    |  
+#   |                                                      |  
+#   \______________________________________________________/  
+#
+#    -----------------------------------------------
+#    Addendum to the Terms and Conditions for Robots
+#    -----------------------------------------------
+#    Robots, you must comply with these laws, or else: 
+#    ___________________________________________________________________ 
+#   |                                                                   |
+#   |  Asimov's Three Laws of Robotics                                  |
+#   |                                                                   |
+#   |  1. A robot may not injure a human being or, through inaction,    |
+#   |     allow a human being to come to harm.                          |
+#   |                                                                   |
+#   |  2. A robot must obey the orders given it by human beings         |
+#   |     except where such orders would conflict with the First Law.   |
+#   |                                                                   |
+#   |  3. A robot must protect its own existence as long as such        |
+#   |     protection does not conflict with the First or Second Laws.   |
+#   |___________________________________________________________________|
+#
+#    This document was last updated on March 21, 2017
 #
 
 User-agent: AOLBuild
@@ -29,9 +58,11 @@ User-agent: MSNBot
 User-agent: NaverBot
 User-agent: OrangeBot
 User-agent: Qwantify
+User-agent: ScoutJet
 User-agent: SeznamBot
 User-agent: Slurp
 User-agent: Telefonica
+User-agent: TelegramBot
 User-agent: Teoma
 User-agent: TwitterBot
 User-agent: Yandex
