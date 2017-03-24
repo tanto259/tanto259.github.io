@@ -61,36 +61,12 @@ There are also other root certificates that I put in my own "watch list", these 
 <th>Reason</th>
 </tr>
 <tr>
-<td><a href="https://crt.sh/?caid=443" target="_blank" rel="noopener noreferrer">VeriSign Class 3 - G3</a></td>
-<td rowspan="9"><a href="https://groups.google.com/d/topic/mozilla.dev.security.policy/fyJ3EK2YOP8/discussion" target="_blank" rel="noopener noreferrer">Mis-issuance</a></td>
-</tr>
-<tr>
-<td><a href="https://crt.sh/?caid=26" target="_blank" rel="noopener noreferrer">VeriSign Class 3 - G5</a></td>
-</tr>
-<tr>
-<td><a href="https://crt.sh/?caid=25" target="_blank" rel="noopener noreferrer">VeriSign Class 3 CA</a></td>
-</tr>
-<tr>
-<td><a href="https://crt.sh/?caid=1110" target="_blank" rel="noopener noreferrer">VeriSign Universal Root CA</a></td>
-</tr>
-<tr>
-<td><a href="https://crt.sh/?caid=14" target="_blank" rel="noopener noreferrer">thawte Primary Root CA</a></td>
-</tr>
-<tr>
-<td><a href="https://crt.sh/?caid=808" target="_blank" rel="noopener noreferrer">thawte Primary Root CA - G3</a></td>
-</tr>
-<tr>
-<td><a href="https://crt.sh/?caid=5" target="_blank" rel="noopener noreferrer">GeoTrust Global CA</a></td>
-</tr>
-<tr>
-<td><a href="https://crt.sh/?caid=67" target="_blank" rel="noopener noreferrer">GeoTrust Primary CA</a></td>
-</tr>
-<tr>
-<td><a href="https://crt.sh/?caid=969" target="_blank" rel="noopener noreferrer">GeoTrust Primary CA - G3</a></td>
+<td><a href="https://chromium.googlesource.com/chromium/src/+/master/net/data/ssl/symantec/roots" target="_blank" rel="noopener noreferrer">Symantec Root Certificates</a></td>
+<td><a href="https://groups.google.com/a/chromium.org/d/topic/blink-dev/eUAKwjihhBs/discussion" target="_blank" rel="noopener noreferrer">Mis-issuance</a></td>
 </tr>
 </tbody>
 </table>
-Entries in this "watch list" will be removed one year after the last incident, considering there are no further incidents. 
+Entries in this "watch list" will be removed one year (365 days) after the last incident, considering there are no further incidents. 
 
 ### Free Certificates Watch List
 
