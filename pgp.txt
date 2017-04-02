@@ -4,8 +4,10 @@ Hash: SHA256
 ===== Begin of General Information =====
 
 This file contains my PGP Signing Policy and my Public Keys. Signed with Primary Key listed below.
-This file is signed around Sun Jan 29 13:12:00 UTC 2017
+This file is signed around Sun April 2 06:52:00 UTC 2017
 For further information contact me at https://tanto259.name/contact
+
+Please refer to https://tanto259.name/privacy on how I will handle your personal information.
 
 ===== End of General Information =====
 ===== Begin of PGP Signing Policy =====
@@ -308,7 +310,7 @@ SMTcWModiz56com/0m11jJnVktHjXMN0fDLx4FYbRAf1R0GqVw==
 
 
 ==> Release Signing Key <==
-* Download link available at https://tanto259.keybase.pub/signingkey.asc
+* Download link available at https://tanto259.name/EBE358FC.pub.asc
 * Available at MIT and SKS Keyservers
 * Signed by Primary Key
 
@@ -368,29 +370,29 @@ ang9NBeN2rynBbJja0VlnF7vpffETf1vDgpwEOE7G1QNxzqHEzk5zHvO2+3FomCW
 ===== End of PGP Public Keys =====
 -----BEGIN PGP SIGNATURE-----
 
-iQROBAEBCAA4FiEE7M/Oc1zwh1BEKdonsjRlfS4hckQFAliN6g4aGmh0dHBzOi8v
-dGFudG8yNTkubmFtZS9wZ3AACgkQsjRlfS4hckSVuCAAo9rP+sJOQtQ/UG4gby49
-HNwvbUuqq7Fa7vaKSpRoqFpBwTYlRVGtWcn8twmTxVVO4g0V+oGnJ2jNbkdhPKwo
-PEFrwNrKNGyoCtdKHPR7O0jQu+Hr+EPmjQoL/07UPn7O3vZMVsDdoqCGdz3dTh0O
-8zTQ53VaO7drZO2gtdCupnMtO2d6/9do7matF3mhXSRf1TzpMKjuiwXekhQLXBgS
-FY40meqEmiF+ESfhGKEyxqFu/JC9MnHz4vLGejRYYqJo12Q/8X4gSt1+iMcnWxSA
-Pm7oxR3udQlNUgywIyKUUvIBXWHBb01qodhhyY5HGDAiBY1iupcDa2LAmzEpghE6
-v5wdVwZ3dDMpYZ0qoZKIIEGx2RoZwKIq8r/bCF4eJjasqJKflkQnc8aeTIyOAxjB
-Rx5ajFsFVf2kDSANdn/H4kIY8hGh/SiwxP15iYMNwhmPJXmZ+Zjn4TDHSm5Glqhk
-X02NihnlIN5YzY0BUVDVeZtVkATLTey7erq6bONA+XNOblLMOhFkZQeM1dRLRdsZ
-IK1gYFY+EQwh6PB2rTTwVikbdb6TFnOFx0MpJiwssGFej2sz86W/aDPwFm4Lfu0y
-D2wlDeOxxg02FaR7O/ITZOagQXHjzWIzZsAy41OYWLeRVOIChiTqd/wa53UVd2c5
-wt2Ofu7VYOw8C3eaQ1JvElowpopEyvEJB01w3kvXVzQzHghlSQNWwqR/lM29IUTc
-Ex6fYimqouihpLHWmt2x2mIo/8QuEdGPN0fA7e/AFxNSDycgMhbrSiIHB2YFHmGU
-7Dtzf3ocNIIln82wVQ5KiLEmA86Vi7JeJKIDFX0H1qp4D+xGjiNnuxuWm10mAo6L
-cP+FUKV5UoMQFoOjyjX2imC+51ZUJCdkVr7s3yu9AN8+hdqUVgr06AG0bnq1OrNt
-b86Jqixf/XsJOIGDXwYWo6AGWQw/QLfio9f3YGh8x7umhdowBQMkbIb7sSrh7n6e
-8UN+u3e3T0rULqBLu2jbBxAGOUrcuvGFrylDOfrilc9zj9I3FO5OT650rVASxGTl
-k+hX+rsPFyKWqiPG17xoA++aFoaUDVtEDkYhEp2S4oQ5lp8Q5+zy1v6SPPyfrtzT
-EC0cwjceva3agBb+z6xUbPWnW/8zwFRer0nFCK7o+TJ+nk901oegU3DP/W14xq9o
-9W4utZOJ3rPTUGgbTNt/Dxf1hrPONP8Jo5EWAZqBJByWBqoTpgS8lj6oFOfl44bv
-Fw1z7FgqQjw6ZDbPQ94xB37msiTBVjaobXK4TjA9wAOWZW1efVOFL+zqWrYmvnsr
-tFDO9HEqF80e/BKFoRCNMRYc5tY1VzzBVgc/LQmTiSzz1Nb6C3eBwdFYQ/RT0Fp4
-qA==
-=FPGI
+iQROBAEBCAA4FiEE7M/Oc1zwh1BEKdonsjRlfS4hckQFAljgn5caGmh0dHBzOi8v
+dGFudG8yNTkubmFtZS9wZ3AACgkQsjRlfS4hckTkEh//frmw2XZefOQqkDcAh7SK
+WgXMW7XzKcRPgMnnKtn/Qzj1jk6ROLD9zXny2XtWRWjD6wtX/pQhgxHj1jlWh7s/
+wDaReY7li5aPul6bhC2i3hx1OymX5z/Vz5wsHWXnviLmcF2kJMZ6NW9C3uDN6MYI
+wRLX5SHTbZZ4wEeDCGb6Ksvw2msxlwT1Ah+UaEEuNpUyk4aN0FUPU8UD44smz4Ri
+/dI7SXuy1zmqlnM8eQrIEMAgpGwOL2NzpyCME8HI9Ofo1ukMT2TkWlqWooo45p2H
+O+VPxjAM5tJN7ZJP353vYPd6qM0sy/ZliiIjr+PYnMzAOftgl+Yf+tHQjQMHu8WM
+/2sOQcZDqi7S2dnWiIgFSw0M+rrOCoDesRlE+BfRgbulhzOqxjyJ8S1cfPF1ukM+
+T4kraukN3xMoRckyu5hjfJ5uYVr6lvniNArGYtgyCQgiVc4zIHNgkHEWflmzQgsf
+fx/jOeotUkVCO6PZNjE8qWWE9N0BMvw1my89X1tFzMSoVlyvEsLPYyVCGDM/Wsw4
+P8ONlUkzpzClqu+x7h+T3GIf0dsbqf4GXJa65LFdaF1Uwt6hTW4FVt/1GO3Z06/C
+1ueWs6qPsY+FE7qoJ8phocxD3MukNFgi5ImAApBEZddCx0oe3LiPerK7kVsW1BID
+xrntttRKTuOGEIpTBBnnBP87ByPSMK9JS3GJEeDAdk1VrV/FJdyqzvqr/9G/AHzv
+qFWmf5oNmhSNvrJg5x5q3+qFU9wRsezYx6LJjJ6PY3AJ9/tvHo3ygb9FXXBDiigI
+yr0rmew2X/sKjXhWucueFXRzJMerjF0hpzQryf8nT/IPkYCTyDjxjlRuAGuEtFPQ
+CoXbdYgeRgfIwt0IkHJgi4624Z14/nT+54xeSiKnrCc/g6ODVCCIPJXF1i/W3Waj
+Y1hfVBoTPEPelJkRDOqTbgXPm8+j+4NKHBMZAD2PPBEVEzhEEF9LZ8g4MuZdqX2M
+rdV+i+qui1X0PicrvFtTcUdQmQycTrK1pBeqOAPZgogi7VjeO7d8m2MuiZRwqfUn
+FegWrICHsWOBD82v2dae6ef1xqPkBIQSJkH3rH9PWNOHuVRSWFJRYzd8cEgPS1fh
+EfLXf2swdKSORs54/SWj97yoXp8QNn7gvZOPg/szs+Bf5UB4SM4/VA3hAAAPHyBi
+QoF68C8PpZ+vgOsVYbz4ni4Y81KxBoZXk23wDTralYuUizGKPrt46RPOXgIMhSdP
+5v78UL4Yc7GK8bOx8h2gDaXtbn6AB+CrX42iBbGJrK89J9zl+VMIWKShPGkcSCrA
+YVxJguEIthExuOTDUwGhZjw0+Z5S93zBc7M+0w6OfvRkksQzHHZgxHVoRVQO9+Ci
+eA==
+=fuXA
 -----END PGP SIGNATURE-----

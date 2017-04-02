@@ -18,9 +18,9 @@ If you like this theme, [please fork the author repo](https://github.com/taylant
 * Modified Theme Files: [MIT License](https://github.com/tanto259/tanto259.github.io/blob/master/LICENSE)
 
 ### Project License
-* GnuPG Helper: [MIT License](https://github.com/tanto259/gnupghelper/blob/master/LICENSE)
 * Telegram Bot Contact Form: [MIT License](https://tanto259.name/telegramcontactform/)
-* Have I Been Pwned? Batch Script: [MIT License](https://github.com/tanto259/haveibeenpwned-batch/blob/master/LICENSE)
+* GnuPG Helper: [Apache License, Version 2.0](https://github.com/tanto259/batch/blob/master/LICENSE)
+* Have I Been Pwned? Batch Script: [Apache License, Version 2.0](https://github.com/tanto259/batch/blob/master/LICENSE)
 
 ### Third-Party Image Provider License
 * Logo: [MIT License](https://github.com/tanto259/tanto259.github.io/blob/master/licensing/Halve%20-%20Taylan%20Tatli.md)

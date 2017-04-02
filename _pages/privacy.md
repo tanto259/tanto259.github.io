@@ -70,7 +70,7 @@ permalink: /privacy
 	<li><a href="https://hstspreload.org/?domain=tanto259.name" target="_blank" rel="noopener noreferrer">Domain is HSTS Preloaded.</a></li>
 	<li><a href="http://dnssec-debugger.verisignlabs.com/tanto259.name" target="_blank" rel="noopener noreferrer">DNSSEC is enabled.</a></li>
 	<li><a href="https://tanto259.keybase.pub/publickey.html" target="_blank" rel="noopener noreferrer">PGP Key is available to encrypt messages.</a></li>
-	<li><a href="https://bit.ly/2kg2vQC" target="_blank" rel="noopener noreferrer">No Cookies and Third-Party Requests.</a></li>
+	<li><a href="https://observatory.mozilla.org/analyze.html?host=tanto259.name" target="_blank" rel="noopener noreferrer">135 out of 100 on Mozilla Observatory.</a></li>
 	<li>Third Party Security Features:<br/><ul>
 		<li><a href="https://www.cloudflare.com/security-policy/" target="_blank" rel="noopener noreferrer">Cloudflare Security Policy</a></li>
 		<li><a href="https://www.zoho.com/security.html" target="_blank" rel="noopener noreferrer">Zoho Security Policy</a></li>
@@ -116,4 +116,4 @@ permalink: /privacy
 <h3>Contacting us</h3>
 <p>If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please <a href="{{ site.url }}/contact">contact us</a>.</p>
 
-<p>This document was last updated on March 21, 2017</p>
+<p>This document was last updated on April 2, 2017</p>
