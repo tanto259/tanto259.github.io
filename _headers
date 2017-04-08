@@ -8,13 +8,5 @@
 	X-Content-Type-Options: nosniff
 	X-Download-Options: noopen
 	X-Frame-Options: DENY
-	X-Legal: https://tanto259.name/terms, https://tanto259.name/privacy, https://tanto259.name/contact, https://tanto259.name/pgp
-	X-Made-With: ❤️
-	X-Open-Source-License: MIT License + CC BY-SA 4.0
-	X-Open-Source-Repo: https://github.com/tanto259/tanto259.github.io
 	X-Permitted-Cross-Domain-Policies: none
-	X-Powered-By: ☕️ 
-	X-Primary-Key: RSA8192/0CCF2D8B340C03BF1D45D076A391A67E9057709D
-	X-Signing-Key: RSA4096/435DC2EEDE2DD1EEFFED9A1B2C4D19A0EBE358FC
-	X-Status: Encrypt All The Things!
 	X-XSS-Protection: 1; mode=block

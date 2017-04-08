@@ -87,4 +87,4 @@ Should the key expires, the requester must met this following criteria for their
 * The new key must be signed by the old key.
 * If the new key have a different email address, the requester must be able to verify the new address.
 
-This policy was last updated on January 29, 2016
+This policy was last updated on January 29, 2017

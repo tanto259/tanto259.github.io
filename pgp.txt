@@ -4,7 +4,7 @@ Hash: SHA256
 ===== Begin of General Information =====
 
 This file contains my PGP Signing Policy and my Public Keys. Signed with Primary Key listed below.
-This file is signed around Sun April 2 06:52:00 UTC 2017
+This file is signed around Sun April 8 15:40:00 UTC 2017
 For further information contact me at https://tanto259.name/contact
 
 Please refer to https://tanto259.name/privacy on how I will handle your personal information.
@@ -94,7 +94,7 @@ Should the key expires, the requester must met this following criteria for their
 * If the new key have a different email address, the requester must be able to verify the new address.
 
 
-This policy was last updated on January 29, 2016
+This policy was last updated on January 29, 2017
 
 ===== End of PGP Signing Policy =====
 ===== Begin of PGP Public Keys =====
@@ -370,29 +370,29 @@ ang9NBeN2rynBbJja0VlnF7vpffETf1vDgpwEOE7G1QNxzqHEzk5zHvO2+3FomCW
 ===== End of PGP Public Keys =====
 -----BEGIN PGP SIGNATURE-----
 
-iQROBAEBCAA4FiEE7M/Oc1zwh1BEKdonsjRlfS4hckQFAljgn5caGmh0dHBzOi8v
-dGFudG8yNTkubmFtZS9wZ3AACgkQsjRlfS4hckTkEh//frmw2XZefOQqkDcAh7SK
-WgXMW7XzKcRPgMnnKtn/Qzj1jk6ROLD9zXny2XtWRWjD6wtX/pQhgxHj1jlWh7s/
-wDaReY7li5aPul6bhC2i3hx1OymX5z/Vz5wsHWXnviLmcF2kJMZ6NW9C3uDN6MYI
-wRLX5SHTbZZ4wEeDCGb6Ksvw2msxlwT1Ah+UaEEuNpUyk4aN0FUPU8UD44smz4Ri
-/dI7SXuy1zmqlnM8eQrIEMAgpGwOL2NzpyCME8HI9Ofo1ukMT2TkWlqWooo45p2H
-O+VPxjAM5tJN7ZJP353vYPd6qM0sy/ZliiIjr+PYnMzAOftgl+Yf+tHQjQMHu8WM
-/2sOQcZDqi7S2dnWiIgFSw0M+rrOCoDesRlE+BfRgbulhzOqxjyJ8S1cfPF1ukM+
-T4kraukN3xMoRckyu5hjfJ5uYVr6lvniNArGYtgyCQgiVc4zIHNgkHEWflmzQgsf
-fx/jOeotUkVCO6PZNjE8qWWE9N0BMvw1my89X1tFzMSoVlyvEsLPYyVCGDM/Wsw4
-P8ONlUkzpzClqu+x7h+T3GIf0dsbqf4GXJa65LFdaF1Uwt6hTW4FVt/1GO3Z06/C
-1ueWs6qPsY+FE7qoJ8phocxD3MukNFgi5ImAApBEZddCx0oe3LiPerK7kVsW1BID
-xrntttRKTuOGEIpTBBnnBP87ByPSMK9JS3GJEeDAdk1VrV/FJdyqzvqr/9G/AHzv
-qFWmf5oNmhSNvrJg5x5q3+qFU9wRsezYx6LJjJ6PY3AJ9/tvHo3ygb9FXXBDiigI
-yr0rmew2X/sKjXhWucueFXRzJMerjF0hpzQryf8nT/IPkYCTyDjxjlRuAGuEtFPQ
-CoXbdYgeRgfIwt0IkHJgi4624Z14/nT+54xeSiKnrCc/g6ODVCCIPJXF1i/W3Waj
-Y1hfVBoTPEPelJkRDOqTbgXPm8+j+4NKHBMZAD2PPBEVEzhEEF9LZ8g4MuZdqX2M
-rdV+i+qui1X0PicrvFtTcUdQmQycTrK1pBeqOAPZgogi7VjeO7d8m2MuiZRwqfUn
-FegWrICHsWOBD82v2dae6ef1xqPkBIQSJkH3rH9PWNOHuVRSWFJRYzd8cEgPS1fh
-EfLXf2swdKSORs54/SWj97yoXp8QNn7gvZOPg/szs+Bf5UB4SM4/VA3hAAAPHyBi
-QoF68C8PpZ+vgOsVYbz4ni4Y81KxBoZXk23wDTralYuUizGKPrt46RPOXgIMhSdP
-5v78UL4Yc7GK8bOx8h2gDaXtbn6AB+CrX42iBbGJrK89J9zl+VMIWKShPGkcSCrA
-YVxJguEIthExuOTDUwGhZjw0+Z5S93zBc7M+0w6OfvRkksQzHHZgxHVoRVQO9+Ci
-eA==
-=fuXA
+iQROBAEBCAA4FiEE7M/Oc1zwh1BEKdonsjRlfS4hckQFAljpBGAaGmh0dHBzOi8v
+dGFudG8yNTkubmFtZS9wZ3AACgkQsjRlfS4hckSmWyAAsintoABRTqw42V7lfGyw
+y6JdVq/R8Ymmc6tovE6ST0cjo3vsjupc2N3TJo/n1lnUHqX0NEDE4nGW09RzrB55
+HXOHynSPOmIw7VeIQ46QnK9UEoDGMdBTQFZrJfkc5v9DxI4Zp0iez16WwygBnL7a
+TgaWxpfoOeeeUXALv+8KScz1btemj1YqWpG0udScFXQVJEF29+QB7xOHVCpBcpP+
+I0L3E7oWckubwfYkMQHSOiVshNTkr7JGrOJgqnIhSVkC8CFtjyn9MUWL0VeDelWj
+Iyw9K/1vXPuRwdWqauVW5gwh58ty0y51pQrkL+QXJsiGbmRTCDi1xkbviaBrWvVk
+FrnZlTvjEspd74mqlQx+5ijuVFLsseDg6L1Fl13fjbtRBFVgBURBb7l8D6++87KU
+NGAvF3r0iUDbDjQwSwkS5Lo2JkqEuSty8K/4ZmTfapRUKQmTl/azABcSUqvBMjbh
+n5NKrhs+3xEDur4QSayv2gvb9JEqEumY3Jwa6trIkiYYZN9GcJ9vNPH8YBfg/X+A
+ZZRGsQ4OmYVCAyo7CmKSoPmRpB2MPAy+nkdYdpGNJcLZZAIxIl0YSB5z0jrae/s4
+kc1jftP1HhTtRAuOR+DyILoPq0S4c5AnoiSQg7L3kzDGDuFg6WOrjBR0ANWvGu7+
+mdHReFuZen6fV+J/eAOK/+rhHL01tkb36V+881RRRWy6R8DFe/jFFKXyFlpBjLbu
+wYBUMNgTbUL46LgAfYIckylCPjHvD9TdlNGiD44TW4ha8yH2T/WomssLUaLRm4F1
+zckNydbPSvcogv8qwxQZNwdjUF6dd+8TV6e+dHBzP7ACele+Lt5oF/2LO7wmF4Py
+vC3A6WoQ2qoi+rov9mVwv0rG7PPTWlHp2nd2qNTDlrA98ElQhQ2INFEEV5K/XeTb
+wL7Qa9Ly/Q5bQ2kTCXWdJtwfsU+zcr2tzYdwjAbEP86MWpoUHDcAJksaJDD96fzV
+fN58RWeSr3SU/gwMLtMG0lTrwTrVF2m9FF3TgKNfR8UYPltie3eT0/ZOiNXysh/m
+6hR7K7LyepGZOZq4oSg99UO1gW5BibWXvtPoBiRnp48E7ijjrqaoQcUK7fMx3nnk
+CtzZhi6RCsZGxFDUsGeI6Kw7IrmDwa55okgkny6f/0ZdF4Nmnxi/vQg6QJ/ni4RP
+GU2c1tsI6sSukiwJ8PGos/TItwVxcP1pjtPAkFayJXkMrnm6SGI5WVTQQrz68WVQ
+11dwYYFA3JgAuKyrw1JM5DwbmPDIHnsXe7w/MQ9UmkQzz85S/k6p7vjYurIHXWnt
+7mKEwAt09fr9421MW49o3L6/biSIZ1xQOCbWI1tdWB1Yg/45aWbnCQ2Vzv/MCZXL
+0g==
+=IzC8
 -----END PGP SIGNATURE-----
