@@ -5,7 +5,7 @@ sitemap: true
 permalink: /contact
 ---
 <center>
-<strong><a id="mailcust" mail="pbagnpg@gnagb259.anzr" target="_blank" rel="noopener noreferrer" rel="noopener noreferrer"><i class="fa fa-fw fa-envelope-square" id="font30"></i></a> : <span class="mailno" mail="pbagnpg@gnagb259.anzr" rel="noopener noreferrer"><noscript>Javascript Disabled? <a href="https://www.google.com/recaptcha/mailhide/d?k=01jKV-O8WDp7oyPvux894ruQ==&c=oO6mUf9X1o5GBnlqzmobLI82zQBAPuwZOjiQ0JGtL5A=" target="_blank" rel="noopener noreferrer" rel="noopener noreferrer">Click Here</a></noscript></span></strong>
+<strong><a id="mailcust" mail="pbagnpg@gnagb259.anzr" target="_blank" rel="noopener noreferrer" rel="noopener noreferrer"><i class="fa fa-fw fa-envelope-square" id="font30"></i></a> : <span class="mailno" mail="pbagnpg@gnagb259.anzr" rel="noopener noreferrer"><noscript>Javascript Disabled? <a href="https://spamty.eu/mail/v4/399/1NSk15fyQw1ac1e680/" target="_blank" rel="noopener noreferrer" rel="noopener noreferrer">Click Here</a></noscript></span></strong>
 <br/><br/>
 <strong><a href="https://tanto259.keybase.pub/publickey.html" target="_blank" rel="noopener noreferrer" rel="noopener noreferrer"><i class="fa fa-fw fa-key" id="font30"></i></a> : <a href="https://tanto259.keybase.pub/publickey.html" target="_blank" rel="noopener noreferrer" rel="noopener noreferrer">PGP 0x9057709D</a></strong>
 <br/><br/>
