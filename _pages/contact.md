@@ -5,17 +5,17 @@ sitemap: true
 permalink: /contact
 ---
 <center>
-<strong><a id="mailcust" mail="pbagnpg@gnagb259.anzr" target="_blank" rel="noopener noreferrer" rel="noopener noreferrer"><i class="fa fa-fw fa-envelope-square" id="font30"></i></a> : <span class="mailno" mail="pbagnpg@gnagb259.anzr" rel="noopener noreferrer"><noscript>Javascript Disabled? <a href="https://spamty.eu/mail/v4/399/1NSk15fyQw1ac1e680/" target="_blank" rel="noopener noreferrer" rel="noopener noreferrer">Click Here</a></noscript></span></strong>
+<strong><a id="mailcust" mail="pbagnpg@gnagb259.anzr" target="_blank" rel="noopener noreferrer" rel="noopener noreferrer"><i class="fa fa-fw fa-envelope-square" id="font30"></i></a> : <span class="mailno" mail="pbagnpg@gnagb259.anzr" rel="noopener noreferrer"><noscript>Javascript Disabled? <a href="https://spamty.eu/mail/v4/399/1NSk15fyQw1ac1e680/" target="_blank" rel="noopener nofollow noreferrer">Click Here</a></noscript></span></strong>
 <br/><br/>
 <strong><a href="https://tanto259.keybase.pub/publickey.html" target="_blank" rel="noopener noreferrer" rel="noopener noreferrer"><i class="fa fa-fw fa-key" id="font30"></i></a> : <a href="https://tanto259.keybase.pub/publickey.html" target="_blank" rel="noopener noreferrer" rel="noopener noreferrer">PGP 0x9057709D</a></strong>
 <br/><br/>
-<strong><a href="https://keybase.io/{{ site.keybase }}" target="_blank" rel="noopener noreferrer" rel="noopener noreferrer"><i class="fa fa-fw fa-key" id="font30"></i></a> : <a href="https://keybase.io/{{ site.keybase }}" target="_blank" rel="noopener noreferrer" rel="noopener noreferrer">keybase.io/{{ site.keybase }}</a></strong>
+<strong><a href="https://keybase.io/{{ site.keybase }}" target="_blank" rel="noopener nofollow noreferrer" rel="noopener noreferrer"><i class="fa fa-fw fa-key" id="font30"></i></a> : <a href="https://keybase.io/{{ site.keybase }}" target="_blank" rel="noopener noreferrer" rel="noopener noreferrer">keybase.io/{{ site.keybase }}</a></strong>
 </center>
 <br/>
 <hr>
 <br/>
 <center>
-	<strong><a href="https://keybase.io/encrypt#tanto259" target="_blank" rel="noopener noreferrer">Encrypt your message before sending it!</a></strong>
+	<strong><a href="https://keybase.io/encrypt#tanto259" target="_blank" rel="noopener nofollow noreferrer">Encrypt your message before sending it!</a></strong>
 </center>
 <br/>
 <hr>
@@ -35,5 +35,5 @@ permalink: /contact
 		<input type="submit" id="form1" value="Send your message">
 		<br/>
 	</form>
-	<p><i>Powered by <a href="https://www.netlify.com" target="_blank" rel="noopener noreferrer">Netlify</a></i></p>
+	<p><i>Powered by <a href="https://www.netlify.com" target="_blank" rel="noopener nofollow noreferrer">Netlify</a></i></p>
 </center>

@@ -50,54 +50,54 @@ permalink: /privacy
 <h3>List of third-party services that store data</h3>
 <p><ul>
 	<li>
-		<strong><i><a href="https://www.netlify.com" target="_blank" rel="noopener noreferrer">Netlify</a></i></strong><br/>
+		<strong><i><a href="https://www.netlify.com" target="_blank" rel="noopener nofollow noreferrer">Netlify</a></i></strong><br/>
 		Netlify is a CDN with continuous deployment from a Git source and provide free HTTPS with Let's Encrypt SSL certificate.<br/>
 		<i>Personal data collected:</i> server logs and contents of contact form, including email and name<br/>
-		<a href="https://www.netlify.com/privacy" target="_blank" rel="noopener noreferrer">Privacy Policy</a>
+		<a href="https://www.netlify.com/privacy" target="_blank" rel="noopener nofollow noreferrer">Privacy Policy</a>
 	</li>
 	<li>
         <strong><i><a href="https://www.zoho.com" target="_blank" rel="noopener noreferrer">Zoho</a></i></strong><br/>
         Zoho is a SaaS provider that provides free email for custom domain, along with online office suite and CRM.<br/> 
         <i>Personal data collected:</i> content of email<br/>
-        <a href="https://www.zoho.com/privacy.html" target="_blank" rel="noopener noreferrer">Privacy Policy</a>
+        <a href="https://www.zoho.com/privacy.html" target="_blank" rel="noopener nofollow noreferrer">Privacy Policy</a>
     </li>
 </ul></p>
 
 <h3>Security Features</h3>
 <p><ul>
-	<li><a href="https://www.ssllabs.com/ssltest/analyze.html?d=tanto259.name" target="_blank" rel="noopener noreferrer">Site is served over HTTPS with long-term HSTS.</a></li>
-	<li><a href="https://schd.io/p15" target="_blank" rel="noopener noreferrer">HTTP Security Headers are all deployed.</a></li>
-	<li><a href="https://hstspreload.org/?domain=tanto259.name" target="_blank" rel="noopener noreferrer">Domain is HSTS Preloaded.</a></li>
-	<li><a href="http://dnssec-debugger.verisignlabs.com/tanto259.name" target="_blank" rel="noopener noreferrer">DNSSEC is enabled.</a></li>
-	<li><a href="https://tanto259.keybase.pub/publickey.html" target="_blank" rel="noopener noreferrer">PGP Key is available to encrypt messages.</a></li>
-	<li><a href="https://observatory.mozilla.org/analyze.html?host=tanto259.name" target="_blank" rel="noopener noreferrer">135 out of 100 on Mozilla Observatory.</a></li>
+	<li><a href="https://www.ssllabs.com/ssltest/analyze.html?d=tanto259.name" target="_blank" rel="noopener nofollow noreferrer">Site is served over HTTPS with long-term HSTS.</a></li>
+	<li><a href="https://schd.io/p15" target="_blank" rel="noopener nofollow noreferrer">HTTP Security Headers are all deployed.</a></li>
+	<li><a href="https://hstspreload.org/?domain=tanto259.name" target="_blank" rel="noopener nofollow noreferrer">Domain is HSTS Preloaded.</a></li>
+	<li><a href="http://dnssec-debugger.verisignlabs.com/tanto259.name" target="_blank" rel="noopener nofollow noreferrer">DNSSEC is enabled.</a></li>
+	<li><a href="https://tanto259.keybase.pub/publickey.html" target="_blank" rel="noopener nofollow noreferrer">PGP Key is available to encrypt messages.</a></li>
+	<li><a href="https://observatory.mozilla.org/analyze.html?host=tanto259.name" target="_blank" rel="noopener nofollow noreferrer">135 out of 100 on Mozilla Observatory.</a></li>
 	<li>Third Party Security Features:<br/><ul>
-		<li><a href="https://www.cloudflare.com/security-policy/" target="_blank" rel="noopener noreferrer">Cloudflare Security Policy</a></li>
-		<li><a href="https://www.zoho.com/security.html" target="_blank" rel="noopener noreferrer">Zoho Security Policy</a></li>
+		<li><a href="https://www.cloudflare.com/security-policy/" target="_blank" rel="noopener nofollow noreferrer">Cloudflare Security Policy</a></li>
+		<li><a href="https://www.zoho.com/security.html" target="_blank" rel="noopener nofollow noreferrer">Zoho Security Policy</a></li>
 	</ul></li>
 </ul></p>
 
 <h3>Other third-party services that deals with this website</h3>
 <p><ul>
 	<li>
-		<strong><i><a href="https://letsencrypt.org" target="_blank" rel="noopener noreferrer">Let's Encrypt</a></i></strong><br/>
+		<strong><i><a href="https://letsencrypt.org" target="_blank" rel="noopener nofollow noreferrer">Let's Encrypt</a></i></strong><br/>
 		Let's Encrypt is a free, automated, and open certificate authority brought to you by the non-profit Internet Security Research Group (ISRG).<br/>
-		<a href="https://letsencrypt.org/privacy/" target="_blank" rel="noopener noreferrer">Privacy Policy</a>
+		<a href="https://letsencrypt.org/privacy/" target="_blank" rel="noopener nofollow noreferrer">Privacy Policy</a>
 	</li>
 	<li>
-		<strong><i><a href="https://www.cloudflare.com" target="_blank" rel="noopener noreferrer">Cloudflare</a></i></strong><br/>
+		<strong><i><a href="https://www.cloudflare.com" target="_blank" rel="noopener nofollow noreferrer">Cloudflare</a></i></strong><br/>
 		Cloudflare is a CDN with Global Anycast DNS, DDoS Protection and other awesome features.<br/> 
-		<a href="https://www.cloudflare.com/security-policy/" target="_blank" rel="noopener noreferrer">Privacy Policy</a>
+		<a href="https://www.cloudflare.com/security-policy/" target="_blank" rel="noopener nofollow noreferrer">Privacy Policy</a>
 	</li>
 	<li> 
-		<strong><i><a href="https://keybase.io" target="_blank" rel="noopener noreferrer">Keybase</a></i></strong><br> 
+		<strong><i><a href="https://keybase.io" target="_blank" rel="noopener nofollow noreferrer">Keybase</a></i></strong><br> 
 		Keybase is an open-source crypto-provider that hosts PGP keys and encrypt messages.<br/> 
-		<a href="https://keybase.io/docs/privacypolicy" target="_blank" rel="noopener noreferrer">Privacy Policy</a>
+		<a href="https://keybase.io/docs/privacypolicy" target="_blank" rel="noopener nofollow noreferrer">Privacy Policy</a>
 	</li>
 	<li>
-		<strong><i><a href="https://github.com" target="_blank" rel="noopener noreferrer">GitHub</a></i></strong><br/>
+		<strong><i><a href="https://github.com" target="_blank" rel="noopener nofollow noreferrer">GitHub</a></i></strong><br/>
 		GitHub is an online Git source, used for hosting the Site source code.<br/>
-		<a href="https://github.com/site/privacy" target="_blank" rel="noopener noreferrer">Privacy Policy</a> | <a href="https://github.com/tanto259/tanto259.github.io" target="_blank" rel="noopener noreferrer">Site Repository</a>
+		<a href="https://github.com/site/privacy" target="_blank" rel="noopener nofollow noreferrer">Privacy Policy</a> | <a href="https://github.com/tanto259/tanto259.github.io" target="_blank" rel="noopener nofollow noreferrer">Site Repository</a>
 	</li>
 </ul></p>
 
@@ -116,4 +116,4 @@ permalink: /privacy
 <h3>Contacting us</h3>
 <p>If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please <a href="{{ site.url }}/contact">contact us</a>.</p>
 
-<p>This document was last updated on April 2, 2017</p>
+<p>This document was last updated on April 15, 2017</p>
