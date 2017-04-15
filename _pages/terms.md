@@ -41,6 +41,6 @@ permalink: /terms
 <p>If you breach these Conditions of Use and we take no action, we will still be entitled to use our rights and remedies in any other situation where you breach these Conditions of Use.</p>
 
 <p><h3>Contacting us</h3></p>
-<p>If you have any questions about this Terms and Conditions, the practices of this site, or your dealings with this site, please <a href="{{ site.url }}/contact">contact us</a>.</p>
+<p>If you have any questions about this Terms and Conditions, the practices of this site, or your dealings with this site, please <a href="{{ site.url }}/contact" rel="noopener noreferrer">contact us</a>.</p>
 
 <p>This document was last updated on April 15, 2017</p>

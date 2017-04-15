@@ -56,7 +56,7 @@ permalink: /privacy
 		<a href="https://www.netlify.com/privacy" target="_blank" rel="noopener nofollow noreferrer">Privacy Policy</a>
 	</li>
 	<li>
-        <strong><i><a href="https://www.zoho.com" target="_blank" rel="noopener noreferrer">Zoho</a></i></strong><br/>
+        <strong><i><a href="https://www.zoho.com" target="_blank" rel="noopener nofollow noreferrer">Zoho</a></i></strong><br/>
         Zoho is a SaaS provider that provides free email for custom domain, along with online office suite and CRM.<br/> 
         <i>Personal data collected:</i> content of email<br/>
         <a href="https://www.zoho.com/privacy.html" target="_blank" rel="noopener nofollow noreferrer">Privacy Policy</a>
@@ -114,6 +114,6 @@ permalink: /privacy
 <p>By using this Site, you signify your acceptance of this Privacy Policy and the <a href="{{ site.url }}/terms" target="_blank" rel="noopener noreferrer">Terms and Conditions</a>. If you do not agree to this policies, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.</p>
 
 <h3>Contacting us</h3>
-<p>If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please <a href="{{ site.url }}/contact">contact us</a>.</p>
+<p>If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please <a href="{{ site.url }}/contact" rel="noopener noreferrer">contact us</a>.</p>
 
 <p>This document was last updated on April 15, 2017</p>
