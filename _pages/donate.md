@@ -39,4 +39,6 @@ permalink: /donate
 </tr>
 </tbody>
 </table></center>
-
+<p>Are you sure you still want to donate to me?</p>
+<a href="bi‌​tcoin:1t259zFngfX88PvgKRvcvQ2VtXKsHQnKi?message=Donation%20for%20tanto259.name" target="_blank" rel="noopener nofollow noreferrer"><img src="{{ site.url }}/assets/images/data/bitcoin.png"></a>
+<p><a href="bi‌​tcoin:1t259zFngfX88PvgKRvcvQ2VtXKsHQnKi?message=Donation%20for%20tanto259.name" target="_blank" rel="noopener nofollow noreferrer">1t259zFngfX88PvgKRvcvQ2VtXKsHQnKi</a></p>
