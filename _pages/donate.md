@@ -41,7 +41,6 @@ permalink: /donate
 </table>
 <h3>Are you sure you still want to donate to me?</h3>
 <p>Fine, here's a Bitcoin address</p>
-<p><a href="bi‌​tcoin:1t259zFngfX88PvgKRvcvQ2VtXKsHQnKi?message=Donation%20for%20tanto259.name" target="_blank" rel="noopener nofollow noreferrer"><img src="{{ site.url }}/assets/images/data/bitcoin.png"></a><br/>
-<a href="bi‌​tcoin:1t259zFngfX88PvgKRvcvQ2VtXKsHQnKi?message=Donation%20for%20tanto259.name" target="_blank" rel="noopener nofollow noreferrer">1t259zFngfX88PvgKRvcvQ2VtXKsHQnKi</a></p>
+<p id="donation"><img src="{{ site.url }}/assets/images/data/bitcoin.png"><br/>1t259zFngfX88PvgKRvcvQ2VtXKsHQnKi</p>
 <h3>Thanks!</h3></center>
 
