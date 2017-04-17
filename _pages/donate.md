@@ -26,7 +26,7 @@ permalink: /donate
 <td><a href="https://support.worldwildlife.org/site/SPageServer?pagename=donate_to_charity" target="_blank" rel="noopener nofollow noreferrer">World Wildlife Fund</a></td>
 </tr>
 <tr>
-<td><a href="http://www.rainforest-alliance.org/support" target="_blank" rel="noopener nofollow noreferrer">Rainforest Alliance</a></td>
+<td><a href="https://www.rainforest-alliance.org/support" target="_blank" rel="noopener nofollow noreferrer">Rainforest Alliance</a></td>
 </tr>
 <tr>
 <td><a href="https://support.unicef.org/campaign/donate-now/donate" target="_blank" rel="noopener nofollow noreferrer">UNICEF</a></td>

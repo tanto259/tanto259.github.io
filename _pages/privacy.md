@@ -68,7 +68,7 @@ permalink: /privacy
 	<li><a href="https://www.ssllabs.com/ssltest/analyze.html?d=tanto259.name" target="_blank" rel="noopener nofollow noreferrer">Site is served over HTTPS with long-term HSTS.</a></li>
 	<li><a href="https://schd.io/p15" target="_blank" rel="noopener nofollow noreferrer">HTTP Security Headers are all deployed.</a></li>
 	<li><a href="https://hstspreload.org/?domain=tanto259.name" target="_blank" rel="noopener nofollow noreferrer">Domain is HSTS Preloaded.</a></li>
-	<li><a href="http://dnssec-debugger.verisignlabs.com/tanto259.name" target="_blank" rel="noopener nofollow noreferrer">DNSSEC is enabled.</a></li>
+	<li><a href="https://dnssec-debugger.verisignlabs.com/tanto259.name" target="_blank" rel="noopener nofollow noreferrer">DNSSEC is enabled.</a></li>
 	<li><a href="https://tanto259.keybase.pub/publickey.html" target="_blank" rel="noopener nofollow noreferrer">PGP Key is available to encrypt messages.</a></li>
 	<li><a href="https://observatory.mozilla.org/analyze.html?host=tanto259.name" target="_blank" rel="noopener nofollow noreferrer">135 out of 100 on Mozilla Observatory.</a></li>
 	<li>Third Party Security Features:<br/><ul>
@@ -116,4 +116,4 @@ permalink: /privacy
 <h3>Contacting us</h3>
 <p>If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please <a href="{{ site.url }}/contact" rel="noopener noreferrer">contact us</a>.</p>
 
-<p>This document was last updated on April 15, 2017</p>
+<p>This document was last updated on April 17, 2017</p>
