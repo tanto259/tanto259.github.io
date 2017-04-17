@@ -38,7 +38,10 @@ permalink: /donate
 <td><a href="https://www.sos-childrensvillages.org/what-you-can-do/what-you-can-do-individual-donors/donation/donate-online" target="_blank" rel="noopener nofollow noreferrer">SOS Children's Villages</a></td>
 </tr>
 </tbody>
-</table></center>
-<p>Are you sure you still want to donate to me?</p>
-<a href="bi‌​tcoin:1t259zFngfX88PvgKRvcvQ2VtXKsHQnKi?message=Donation%20for%20tanto259.name" target="_blank" rel="noopener nofollow noreferrer"><img src="{{ site.url }}/assets/images/data/bitcoin.png"></a>
-<p><a href="bi‌​tcoin:1t259zFngfX88PvgKRvcvQ2VtXKsHQnKi?message=Donation%20for%20tanto259.name" target="_blank" rel="noopener nofollow noreferrer">1t259zFngfX88PvgKRvcvQ2VtXKsHQnKi</a></p>
+</table>
+<h3>Are you sure you still want to donate to me?</h3>
+<p>Fine, here's a Bitcoin address</p>
+<p><a href="bi‌​tcoin:1t259zFngfX88PvgKRvcvQ2VtXKsHQnKi?message=Donation%20for%20tanto259.name" target="_blank" rel="noopener nofollow noreferrer"><img src="{{ site.url }}/assets/images/data/bitcoin.png"></a><br/>
+<a href="bi‌​tcoin:1t259zFngfX88PvgKRvcvQ2VtXKsHQnKi?message=Donation%20for%20tanto259.name" target="_blank" rel="noopener nofollow noreferrer">1t259zFngfX88PvgKRvcvQ2VtXKsHQnKi</a></p>
+<h3>Thanks!</h3></center>
+
