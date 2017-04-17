@@ -41,6 +41,6 @@ permalink: /donate
 </table>
 <h3>Are you sure you still want to donate to me?</h3>
 <p>Fine, here's a Bitcoin address</p>
-<p id="donation"><img src="{{ site.url }}/assets/images/data/bitcoin.png"><br/>1t259zFngfX88PvgKRvcvQ2VtXKsHQnKi</p>
+<a id="donation"><img src="{{ site.url }}/assets/images/data/bitcoin.png"><br/>1t259zFngfX88PvgKRvcvQ2VtXKsHQnKi</a>
 <h3>Thanks!</h3></center>
 
