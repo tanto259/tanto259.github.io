@@ -14,7 +14,7 @@ Please refer to the <a href="{{ site.url }}/privacy" target="_blank" rel="noopen
 **Primary Key**
 <pre><code>sec   rsa8192 2016-12-31 [C]
       0CCF 2D8B 340C 03BF 1D45  D076 A391 A67E 9057 709D
-uid           Hartanto Ario Widjaya (<span class="mailnolink" mail="pbagnpg@gnagb259.anzr"></span>)
+uid           Hartanto Ario Widjaya (<span class="mailnolink" mail="4@?E24EoE2?E@adh]?2>6"></span>)
 ssb   rsa8192 2016-12-31 [S]
       ECCF CE73 5CF0 8750 4429  DA27 B234 657D 2E21 7244
 ssb   rsa8192 2016-12-31 [E]
@@ -25,7 +25,7 @@ ssb   rsa8192 2016-12-31 [A]
 **Release Signing Key**
 <pre><code>sec   rsa4096 2016-12-31 [SC]
       435D C2EE DE2D D1EE FFED  9A1B 2C4D 19A0 EBE3 58FC
-uid           Hartanto Ario Widjaya (Release Signing Key) (<span class="mailnolink" mail="pbagnpg@gnagb259.anzr"></span>)</code></pre>
+uid           Hartanto Ario Widjaya (Release Signing Key) (<span class="mailnolink" mail="4@?E24EoE2?E@adh]?2>6"></span>)</code></pre>
 
 ### Data Signing
 
