@@ -72,5 +72,5 @@ jekyll-mentions:
   base-url: https://twitter.com
 
 # Exclude list
-include: [_pages, _redirects, _headers]
+include: [_pages, _redirects, _headers, .well-known]
 exclude: [README.md, Gemfile, Gemfile.lock, _site, src, vendor, CNAME, LICENSE, Rakefile, .sass-cache, .DS_Store, licensing]
