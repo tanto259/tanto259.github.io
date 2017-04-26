@@ -90,7 +90,7 @@
   <priority>0.72</priority>
 </url>
 <url>
-  <loc>https://tanto259.name/keybase.txt</loc>
+  <loc>https://tanto259.name/.well-known/keybase.txt</loc>
   <changefreq>never</changefreq>
   <priority>0.51</priority>
 </url>
