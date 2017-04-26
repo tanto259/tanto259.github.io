@@ -6,7 +6,7 @@
 <Action>settings</Action>
 <Protocol>
 <Type>IMAP</Type>
-<Server>imappro.zoho.com</Server>
+<Server>imap.zoho.com</Server>
 <Port>993</Port>
 <DomainRequired>on</DomainRequired>
 <SPA>off</SPA>
@@ -15,7 +15,7 @@
 </Protocol>
 <Protocol>
 <Type>POP3</Type>
-<Server>poppro.zoho.com</Server>
+<Server>pop.zoho.com</Server>
 <Port>995</Port>
 <DomainRequired>on</DomainRequired>
 <SPA>off</SPA>

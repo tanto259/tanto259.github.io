@@ -5,14 +5,14 @@
 <domain>tanto259.name</domain>
 <displayName>tanto259.name</displayName>
 <incomingServer type="imap">
-<hostname>imappro.zoho.com</hostname>
+<hostname>imap.zoho.com</hostname>
 <port>993</port>
 <socketType>SSL</socketType>
 <username>%EMAILADDRESS%</username>
 <authentication>password-cleartext</authentication>
 </incomingServer>
 <incomingServer type="pop3">
-<hostname>poppro.zoho.com</hostname>
+<hostname>pop.zoho.com</hostname>
 <port>995</port>
 <socketType>SSL</socketType>
 <username>%EMAILADDRESS%</username>
