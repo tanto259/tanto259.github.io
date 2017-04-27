@@ -10,3 +10,6 @@
 	X-Frame-Options: DENY
 	X-Permitted-Cross-Domain-Policies: none
 	X-XSS-Protection: 1; mode=block
+
+/.well-known/openpgpkey/hu/*
+	Content-Type: application/octet-stream
