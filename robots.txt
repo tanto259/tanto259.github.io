@@ -53,6 +53,7 @@ User-agent: Daumoa
 User-agent: DuckDuckBot
 User-agent: FacebookExternalHit
 User-agent: GoogleBot
+User-agent: keybase-proofs
 User-agent: Mail.RU_Bot
 User-agent: MSNBot
 User-agent: NaverBot
