@@ -5,7 +5,7 @@ permalink: /pgp
 ---
 This PGP Signing Policy governs the manner in which I sign PGP keys submitted by the requester and data.
 
-A signed text version is available at <a href="{{ site.url }}/pgp.txt" target="_blank" rel="noopener noreferrer">{{ site.url }}/pgp.txt</a>.
+A signed text version is available at <a href="{{ site.url }}/.well-known/pgp.txt" target="_blank" rel="noopener noreferrer">{{ site.url }}/.well-known/pgp.txt</a>.
 
 Please refer to the <a href="{{ site.url }}/privacy" target="_blank" rel="noopener noreferrer">Privacy Policy</a> to see how I would handle your personal information.
 
