@@ -34,6 +34,7 @@ See licensing folder at [https://github.com/tanto259/tanto259.github.io/tree/mas
 ### Third-party Provider Privacy Policy
 * [Netlify](https://www.netlify.com/privacy) *(have access to user data)*
 * [Zoho](https://www.zoho.com/privacy.html) *(have access to user data)*
+* [Report URI](https://report-uri.io/home/faq/#tab_5) *(have access to user data)*
 * [Keybase](https://keybase.io/docs/privacypolicy)
 * [Let's Encrypt](https://letsencrypt.org/privacy/)
 * [Cloudflare](https://www.cloudflare.com/security-policy/)

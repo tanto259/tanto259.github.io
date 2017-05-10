@@ -61,6 +61,12 @@ permalink: /privacy
         <i>Personal data collected:</i> content of email<br/>
         <a href="https://www.zoho.com/privacy.html" rel="noopener nofollow noreferrer">Privacy Policy</a>
     </li>
+	<li>
+        <strong><i><a href="https://report-uri.io" rel="noopener nofollow noreferrer">Report URI</a></i></strong><br/>
+        Report URI is a reporting endpoint that browser can send a violation report to and enable us to monitor exactly what is happening on our Site.<br/> 
+        <i>Personal data collected:</i> User Agent string<br/>
+        <a href="https://report-uri.io/home/faq/#tab_5" rel="noopener nofollow noreferrer">Privacy Policy</a>
+    </li>
 </ul></p>
 
 <h3>Security Features</h3>
@@ -74,6 +80,7 @@ permalink: /privacy
 	<li>Third Party Security Features:<br/><ul>
 		<li><a href="https://www.cloudflare.com/security-policy/" rel="noopener nofollow noreferrer">Cloudflare Security Policy</a></li>
 		<li><a href="https://www.zoho.com/security.html" rel="noopener nofollow noreferrer">Zoho Security Policy</a></li>
+		<li><a href="https://report-uri.io/home/faq/#tab_4" rel="noopener nofollow noreferrer">Report URI Security Policy</a></li>
 	</ul></li>
 </ul></p>
 
@@ -116,4 +123,4 @@ permalink: /privacy
 <h3>Contacting us</h3>
 <p>If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please <a href="{{ site.url }}/contact" rel="noopener noreferrer">contact us</a>.</p>
 
-<p>This document was last updated on May 2, 2017</p>
+<p>This document was last updated on May 10, 2017</p>
