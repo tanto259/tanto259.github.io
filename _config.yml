@@ -43,11 +43,13 @@ facebook:           tanto259
 github:             tanto259
 stackexchange:      8492733
 quora:              Hartanto-Ario-Widjaya
+mastodon:           mastodon.social/@tanto259
 #linkedin:          username
 #xing:              username
 instagram:          tanto259
 #lastfm:            username
-#tumblr:            username
+medium:             tanto259
+tumblr:             tanto259
 pinterest:          tanto259
 #foursquare:        username
 playerme:           tanto259
@@ -66,10 +68,6 @@ hackernews:         tanto259
 # Gems
 gems:
   - jekyll-feed
-  - jekyll-mentions
-
-jekyll-mentions:
-  base-url: https://twitter.com
 
 # Exclude list
 include: [_pages, _redirects, _headers, .well-known]
