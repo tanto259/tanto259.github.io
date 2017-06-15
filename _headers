@@ -13,3 +13,9 @@
 
 /.well-known/openpgpkey/hu/dj3498u4hyyarh35rkjfnghbjxug6b19
 	Content-Type: application/octet-stream
+	
+https://tanto259.name/*
+	X-Test-Headers: apex
+	
+https://www.tanto259.name/*
+	X-Test-Headers: www
