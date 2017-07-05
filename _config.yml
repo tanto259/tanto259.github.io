@@ -66,8 +66,7 @@ hackernews:         tanto259
 #behance:           username
 
 # Gems
-gems:
-  - jekyll-feed
+plugins: [jekyll-feed]
 
 # Exclude list
 include: [_pages, _redirects, _headers, .well-known]
