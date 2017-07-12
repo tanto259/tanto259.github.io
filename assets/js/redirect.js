@@ -1,1 +1,0 @@
-window.location = "https://tanto259.name";
